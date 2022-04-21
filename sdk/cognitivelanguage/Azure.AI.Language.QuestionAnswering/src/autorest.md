@@ -12,7 +12,7 @@ batch:
   clear-output-folder: true
   model-namespace: false
 
-- input-file: https://raw.githubusercontent.com/Azure/azure-rest-api-specs/b791f57426508cb2793a8911650a416dcb11c6a6/specification/cognitiveservices/data-plane/Language/stable/2021-10-01/questionanswering-authoring.json
+- input-file: https://github.com/mikekistler/azure-rest-api-specs/blob/9f7d8b045fe26fcfd1c08746e9f3ba07496cff4e/specification/cognitiveservices/data-plane/Language/stable/2021-10-01/questionanswering-authoring.json
 # namespace: Azure.AI.Language.QuestionAnswering.Projects
   add-credentials: true
   data-plane: true
